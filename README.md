@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @raul-martinez-dev
+- 👀 I’m interested in Golang, Python, NodeJs and NextJs
+- 🌱 I’m currently learning Devops technology
+- 💞️ I’m looking to collaborate on frontend and backend developer
+- 📫 How to reach me: raul.martinez.texas.dev@gmail.com, +1 ‪(254) 300-6347
+- 😄 Pronouns: 👍
+- ⚡ Fun fact: i enjoy making other peoples and me laughing
